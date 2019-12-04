@@ -1,0 +1,22 @@
+[
+  {
+    "question": "2*3+4",
+    "answer": "a",
+    "options": "\ta=>10\n\tb=>9\n\tc=>7\n\td=>12"
+  },
+  {
+    "question": "5+3/3",
+    "answer": "c",
+    "options": "\ta=>10\n\tb=>9\n\tc=>6\n\td=>12"
+  },
+  {
+    "question": "8+(4/2)/2",
+    "answer": "a",
+    "options": "\ta=>9\n\tb=>1\n\tc=>7\n\td=>12"
+  },
+  {
+    "question": "((1+11+0)/6)/2",
+    "answer": "d",
+    "options": "\ta=>10\n\tb=>9\n\tc=>7\n\td=>1"
+  }
+]
